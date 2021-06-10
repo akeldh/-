@@ -1,7 +1,6 @@
-</h2>2021_Dacon_LG_contest</h2>
+<h2> 2021_Dacon_LG_contest </h2>
 
 
-#
 
 ### 개요
 
