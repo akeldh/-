@@ -1,0 +1,12 @@
+u_id                   # user id
+problem              # 불만접수 유무 (0 : 접수 X, 1 : 접수)
+start_t_errlog        # 에러로그 최초 시작 시간
+rec_t_problem       # 불만 접수 시간
+time_interval_hour  # 최초 에러로그 발생 시간으로부터 불만이 접수되기까지 걸린 시간 
+n_errlogs             # errlog 수
+model                 # 모델
+n_models             # 모델 수
+fwvers                 # 펌웨어
+n_fwvers              # 펌웨어 수
+errtypes              # 에러타입
+n_errtypes           # 에러타입 수 
